@@ -20,9 +20,7 @@ Each color is vulnerable to only 2 of the 6 possible exploits. First discover wh
 Vulnerability #1: SQL Injection
 Description:SQL injection vulnerability in web address causes database to fail.
 
-
-
-
+<img src="blue-vuln1.gif">
 
 ## Green
 
